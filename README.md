@@ -38,7 +38,7 @@ Rolando o mouse para baixo, você verá alguns exemplos de alguns cards de cidad
 
 <br>
 
-# Lugares
+# Hoteis
 <img 
 src="./ScreenShot/Hoteis.png" 
 alt="Erro_IMG_INFORMATION">
